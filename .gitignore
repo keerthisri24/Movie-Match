@@ -1,0 +1,10 @@
+# Raw datasets
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
